@@ -4,7 +4,8 @@ The following code uses the wavelet transform, employing the **Daubechies 2** wa
 
 Biological signals are typically noisy, thus the wavelet transform helps convert the signal into a form that makes it much easier for the peak finder function. Here, the maximal overlap discrete wavelet transform (MODWT) function is used to extract the peaks of the signal.  
 
-**Data used:**[Uploading Indentation5mm (2).csv…]()
+**Data used:** [Indentation5mm (2).csv](https://github.com/ab4821/Abnormality-detection-for-novel-capsule-endoscope/files/12834881/Indentation5mm.2.csv)
+
 
 ### Plot of original signal:
 
